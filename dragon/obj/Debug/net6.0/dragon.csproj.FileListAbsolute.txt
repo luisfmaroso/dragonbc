@@ -1,0 +1,15 @@
+C:\Projetos\dragon\bin\Debug\net6.0\dragon.exe
+C:\Projetos\dragon\bin\Debug\net6.0\dragon.deps.json
+C:\Projetos\dragon\bin\Debug\net6.0\dragon.runtimeconfig.json
+C:\Projetos\dragon\bin\Debug\net6.0\dragon.dll
+C:\Projetos\dragon\bin\Debug\net6.0\dragon.pdb
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.csproj.AssemblyReference.cache
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.AssemblyInfoInputs.cache
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.AssemblyInfo.cs
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.csproj.CoreCompileInputs.cache
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.dll
+C:\Projetos\dragon\obj\Debug\net6.0\refint\dragon.dll
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.pdb
+C:\Projetos\dragon\obj\Debug\net6.0\dragon.genruntimeconfig.cache
+C:\Projetos\dragon\obj\Debug\net6.0\ref\dragon.dll
